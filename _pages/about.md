@@ -113,4 +113,4 @@ Beyond my academic research, I am an algorithm engineer intern at Knowin AI, whe
 -->
 
 # 💻 Internships
-- Algorithm Engineer for Robot Manipulation, **[Knowin AI](https://knowin.ai/)**, Shenzhen, China, *Jan. 2026 - Present*
+- Algorithm Engineer for Robot Manipulation, **[Knowin AI](https://mp.weixin.qq.com/s/HTQM37HK87JvG75Ga801EA)**, Shenzhen, China, *Jan. 2026 - Present*
