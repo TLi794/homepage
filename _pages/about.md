@@ -52,15 +52,16 @@ Hi! I'm Tianfu LI, currently pursuing a M.Phil. degree in ROBOTICS & AUTONOMOUS 
 
 # 🔭 Projects 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Group Project</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[XXXXXXXX](https://tli794.github.io/homepage/)
+[Embodied AI-based Multi-terrain Service Robots with Dynamic SLAM and VLN Systems]()
 
-**AAA**
+**Red Brid M.Phil. (RBM) Group Project**
 
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- Proposed an embodied AI-based robotic system for autonomous service in dynamic indoor environments;
+- Integrated semantic sence graphs with geometric maps;
+- Devised object-oriented/language-guided navigation functions.
 </div>
 </div>
 
