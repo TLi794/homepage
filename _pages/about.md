@@ -57,7 +57,7 @@ Beyond my academic research, I am an algorithm engineer intern at Knowin AI, whe
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Group Project</div><img src='images/servicerobot2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Embodied AI-based Multi-terrain Service Robots with Dynamic SLAM and VLN](https://tli794.github.io/homepage/docs/servicerobot.mp4)
+[Embodied AI-based Multi-terrain Service Robots with Dynamic SLAM and VLN]([https://tli794.github.io/homepage/docs/servicerobot.mp4](https://hkustgz-my.sharepoint.com/:v:/g/personal/tli794_connect_hkust-gz_edu_cn/IQDgJwFjAooCSo7sP3nDN0oJAW-Q2tHK82hu6SsTg-3mu2o?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=VJfYsC))
 
 **Red Brid M.Phil. (RBM) Group Project**
 
