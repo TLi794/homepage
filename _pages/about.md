@@ -61,8 +61,20 @@ Hi! I'm Tianfu LI, currently pursuing a M.Phil. degree in ROBOTICS & AUTONOMOUS 
 
 - Proposed an embodied AI-based robotic system for autonomous daily service in dynamic indoor environments;
 - Integrated semantic sence graphs with geometric maps;
-- Devised object-oriented/language-guided navigation functions.
+- Devised object-oriented/language-guided navigation functions;
 - Deployed this system on a real-world wheeled robot.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Group Project</div><img src='images/servicerobot.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Coastal Hydrological Monitoring Unmanned System](https://mp.weixin.qq.com/s/ZgVO-W9tWL1KAQG7vN-JXg)
+
+**Red Brid Project**
+
+- Participated in the development of the advanced “sea-land-air” collaborative unmanned monitoring system;
+- Contributed to the VLN module for unmanned ground vehicles (UGV) serving as drone-delivery rovers.
 </div>
 </div>
 
