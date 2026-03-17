@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Tianfu LI"
-  avatar           : "images/me1.png"   # "images/android-chrome-512x512.png"
+  avatar           : "images/me2.png"   # "images/android-chrome-512x512.png"
   bio              : "M.Phil. Student at HKUST(Guangzhou)"
   location         : "Guangzhou, China"
   employer         :
