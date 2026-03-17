@@ -44,8 +44,13 @@ My research interest includes neural machine translation and computer vision. I 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- Postgraduate Studentship (PGS) Award from Hong Kong University of Science and Technology (Guangzhou)
+- Outstanding Bachelor’s Dissertation (Second Prize) of Sichuan University 
+- Outstanding Graduate of Sichuan University
+- Outstanding Undergraduate of Sichuan University
+- Comprehensive Scholarship (Third Prize) from Sichuan University
+- Individual Scholarship (First Prize) from Sichuan University
+- Meritorious Winner in Mathematical Contest in Modeling by COMAP 
 
 # 📖 Educations
 - M.Phil. in Robotics and Automation Systems, **[Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/)**, China, *2024 - Present*
