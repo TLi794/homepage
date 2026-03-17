@@ -47,12 +47,14 @@ My research interest includes neural machine translation and computer vision. I 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- M.Phil. in Robotics and Automation Systems, **[Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/)**, China, *2024 - Present*
+- B.Eng. in Computer Science and Technology, **[Sichuan University](https://en.scu.edu.cn/)**, China, *2020 - 2024* 
 
+<!--
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+-->
 
 # 💻 Internships
 - Algorithm Engineer for Robot Manipulation, **[Knowin AI](https://knowin.ai/)**, *Jan. 2026 - Present*
