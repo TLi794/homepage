@@ -80,6 +80,19 @@ Beyond my academic research, I am an algorithm engineer intern at Knowin AI, whe
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Individual Project</div><img src='images/gesturerobot.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Gesture Recognition for Robot Control under Optical Camera Communication Interference]()
+
+**Bachelor’s Dissertation**
+
+- Designed a style-transfer-based denoising pipeline using CycleGAN to isolate gesture data from noisy image matrices;
+- Integrated Swin-Transformer to enhance spatial feature extraction and signal disentanglement;
+- Deployed the model on ROS, with Qt-based visualization interface.
+</div>
+</div>
+
 # 🎖 Honors and Awards
 - Postgraduate Studentship (PGS) Award from Hong Kong University of Science and Technology (Guangzhou)
 - Outstanding Bachelor’s Dissertation (Second Prize) of Sichuan University 
