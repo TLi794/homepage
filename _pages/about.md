@@ -45,7 +45,7 @@ Beyond my academic research, I am an algorithm engineer intern at Knowin AI, whe
 **Tianfu Li<sup>\*</sup>**, Wenbo Chen<sup>\*</sup>, Haoxuan Xu<sup>\*</sup>, et al.
 
 <!--[**Project**](https://tli794.github.io/homepage/)--> <!--<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>-->
-- This work unifies perception, prediction, and planning in a single VLN network, using intermediate modules to sharpen scene understanding and boost navigation accuracy.
+- Unified perception, prediction, and planning in a single VLN network, using intermediate modules to sharpen scene understanding and boost navigation accuracy.
 </div>
 </div>
 
