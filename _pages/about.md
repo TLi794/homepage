@@ -53,6 +53,8 @@ Beyond my academic research, I am an algorithm engineer intern at Knowin AI, whe
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 -->
 
+N.B.: <sup>\*</sup> indicates equal contribution.
+
 # 🔭 Projects 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Group Project</div><img src='images/servicerobot2.png' alt="sym" width="100%"></div></div>
