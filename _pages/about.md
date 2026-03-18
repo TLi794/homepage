@@ -40,7 +40,7 @@ Beyond my academic research, I am an algorithm engineer intern at Knowin AI, whe
 
 [Vision-and-Language Navigation](https://tli794.github.io/homepage/)
 
-**Tianfu Li**, Wenbo Chen, Haoxuan Xu, et al.
+**Tianfu Li<sup>\***, Wenbo Chen, Haoxuan Xu, et al.
 
 <!--[**Project**](https://tli794.github.io/homepage/)--> <!--<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>-->
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
