@@ -23,9 +23,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet 
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 -->
 
-Hi! I'm Tianfu LI (李天夫), currently pursuing a M.Phil. degree in ROBOTICS & AUTONOMOUS SYSTEMS at Hong Kong University of Science and Technology (Guangzhou), supervised by [Prof. Haoang LI (李昊昂)](https://sites.google.com/view/haoangli/homepage) and [Prof. Lujia WANG (王鲁佳)](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/?id=353). My research sits in the broad field of Embodied AI and Robotics, with a particular focus on Vision-and-Language Navigation (VLN) and Robotic Manipulation - building intelligent systems that can perceive, reason, and act in complex real-world environments.
+Hi! I'm Tianfu LI (李天夫), currently pursuing a M.Phil. degree in ROBOTICS & AUTONOMOUS SYSTEMS at Hong Kong University of Science and Technology (Guangzhou), supervised by [Prof. Haoang LI (李昊昂)](https://sites.google.com/view/haoangli/homepage) and [Prof. Lujia WANG (王鲁佳)](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/?id=353). My research sits in the broad field of Embodied AI and Robotics, with a particular focus on Vision-and-Language Navigation (VLN) and Robotic Manipulation - building intelligent systems that can perceive, reason, and act in complex real-world environments. I am passionate about creating embodied agents that can seamlessly interact with humans and their surroundings through natural language instructions and visual perception.
 
+<!--
 Beyond my academic research, I am an algorithm engineer intern at Knowin AI, where I work on developing advanced robotic manipulation algorithms, bridging the gap between high-level task understanding and low-level motor control. I am passionate about creating embodied agents that can seamlessly interact with humans and their surroundings through natural language instructions and visual perception.
+-->
 
 <!--
 # 🔥 News
@@ -38,7 +40,7 @@ Beyond my academic research, I am an algorithm engineer intern at Knowin AI, whe
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/p3nav.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[P<sup>3</sup>Nav: End-to-End Perception, Prediction and Plannning for Vision-and-Language Navigation](http://arxiv.org/abs/2603.17459)
+[P<sup>3</sup>Nav: End-to-End Perception, Prediction and Planning for Vision-and-Language Navigation](http://arxiv.org/abs/2603.17459)
 
 **ArXiv Preprint**
 
@@ -116,4 +118,4 @@ N.B.: **<sup>\*</sup>** indicates equal contribution.
 -->
 
 # 💻 Internships
-- Algorithm Engineer for Robot Manipulation, **[Knowin AI](https://mp.weixin.qq.com/s/HTQM37HK87JvG75Ga801EA)**, Shenzhen, China, *Jan. 2026 - Present*
+- Algorithm Engineer for Robotic Manipulation, **[Knowin AI](https://mp.weixin.qq.com/s/HTQM37HK87JvG75Ga801EA)**, Shenzhen, China, *Jan. 2026 - Apr. 2026*
