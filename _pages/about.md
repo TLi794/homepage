@@ -119,6 +119,7 @@ N.B.: **<sup>\*</sup>** indicates equal contribution.
 
 # 💻 Internships
 - Algorithm Engineer for Robotic Manipulation, **[Knowin AI](https://knowinai.com/)**, Shenzhen, China, *Jan. 2026 - Apr. 2026*
+
 <!--
 - Algorithm Engineer for Robotic Manipulation, **[Knowin AI](https://mp.weixin.qq.com/s/HTQM37HK87JvG75Ga801EA)**, Shenzhen, China, *Jan. 2026 - Apr. 2026*
 -->
