@@ -99,12 +99,13 @@ N.B.: **<sup>\*</sup>** indicates equal contribution.
 </div>
 
 # 🎖 Honors and Awards
+- Third Prize in China Graduate AI Innovation Competition
 - Postgraduate Studentship (PGS) Award from Hong Kong University of Science and Technology (Guangzhou)
-- Outstanding Bachelor’s Dissertation (Second Prize) of Sichuan University 
+- Outstanding Bachelor’s Dissertation of Sichuan University 
 - Outstanding Graduate of Sichuan University
 - Outstanding Undergraduate of Sichuan University
-- Comprehensive Scholarship (Third Prize) from Sichuan University
-- Individual Scholarship (First Prize) from Sichuan University
+- Comprehensive Scholarship from Sichuan University
+- Individual Scholarship from Sichuan University
 - Meritorious Winner in Mathematical Contest in Modeling by COMAP 
 
 # 📖 Educations
