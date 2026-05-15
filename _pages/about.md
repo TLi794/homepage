@@ -44,10 +44,24 @@ Beyond my academic research, I am an algorithm engineer intern at Knowin AI, whe
 
 **ArXiv Preprint**
 
-**Tianfu Li<sup>\*</sup>**, Wenbo Chen<sup>\*</sup>, Haoxuan Xu<sup>\*</sup>, et al.
+**Tianfu Li<sup>\*</sup>**, Wenbo Chen**<sup>\*</sup>**, Haoxuan Xu**<sup>\*</sup>**, et al.
 
 <!--[**Project**](https://tli794.github.io/homepage/)--> <!--<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>-->
 - Unified perception, prediction, and planning in a single VLN network, using intermediate modules to sharpen scene understanding and boost navigation accuracy.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/hcsg.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[HCSG: Human-Centric Semantic-Geometric Reasoning for Vision-Language Navigation](https://arxiv.org/abs/2605.13321)
+
+**ArXiv Preprint**
+
+Haoxuan Xu**<sup>\*</sup>**, **Tianfu Li<sup>\*</sup>**, Wenbo Chen, et al.
+
+<!--[**Project**](https://tli794.github.io/homepage/)--> <!--<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>-->
+- Formulated human-aware VLN as a navigation problem that requires both semantic understanding of human activities and geometric foresight of human motion.
 </div>
 </div>
 
