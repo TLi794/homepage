@@ -85,6 +85,7 @@ Haoxuan Xu**<sup>\*</sup>**, **Tianfu Li<sup>\*</sup>**, Wenbo Chen, et al.
 
 N.B.: **<sup>\*</sup>** indicates equal contribution.
 
+<!--
 # 🔭 Projects 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Group Project</div><img src='images/servicerobot2.png' alt="sym" width="100%"></div></div>
@@ -125,6 +126,8 @@ N.B.: **<sup>\*</sup>** indicates equal contribution.
 - Deployed the model on ROS, with Qt-based visualization interface.
 </div>
 </div>
+
+-->
 
 # 🎖 Honors and Awards
 - Third Prize in China Graduate AI Innovation Competition
