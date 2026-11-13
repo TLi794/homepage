@@ -80,6 +80,19 @@ Haitian Li<sup>*</sup>, **Tianfu Li<sup>*</sup>**, Xuxi Zhao, et al.
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/slip-vla-figures.webp' alt="SLIP-VLA Figures 1 and 2: overview and model pipeline" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[SLIP-VLA: Single-Step Latent Imagination for Policy Learning in Vision-Language-Action Models](https://arxiv.org/abs/2609.33575)
+
+<strong><a href="https://haoxuanxu1024.github.io/SLIP_VLA/">Project Page</a> | <a href="https://arxiv.org/abs/2609.33575">ArXiv Preprint</a></strong>
+
+**Tianfu Li<sup>*</sup>**, Haoxuan Xu<sup>*</sup>, Wenbo Chen<sup>*</sup>, et al.
+
+- Generates temporally dense future representations in a single 12 ms denoising step and shapes them for perception and control to enable efficient future-aware robot manipulation.
+</div>
+</div>
+
 N.B.: <sup>*</sup> indicates equal contribution.
 
 {% comment %}
