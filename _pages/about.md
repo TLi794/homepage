@@ -67,6 +67,7 @@ Beyond my academic research, I am an algorithm engineer intern at Knowin AI, whe
 
 # 📝 Publications 
 
+{% comment %}
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/p3nav.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -100,6 +101,7 @@ Haoxuan Xu**<sup>\*</sup>**, **Tianfu Li<sup>\*</sup>**, Wenbo Chen, et al.
 -->
 
 N.B.: **<sup>\*</sup>** indicates equal contribution.
+{% endcomment %}
 
 <!--
 # 🔭 Projects 
