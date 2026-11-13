@@ -30,6 +30,7 @@ author:
   googlescholar    :  # "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
   email            : "tli794@connect.hkust-gz.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
+  openreview       : "https://openreview.net/profile?id=%7ETianfu_Li2"
   uri              :
   bitbucket        :
   codepen          :
@@ -37,13 +38,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : tli794 # e.g., "github username"
+  github           : # tli794
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : tianfu-li-897a45409 # e.g., "linkedin username"
+  linkedin         : # tianfu-li-897a45409
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : https://orcid.org/0009-0007-2410-9595 # e.g., "https://orcid.org/xxxx"
   pinterest        :
