@@ -72,7 +72,7 @@ Beyond my academic research, I am an algorithm engineer intern at Knowin AI, whe
 
 [Elastic-WAM: Adaptive Spatiotemporal Imagination for Efficient Robot Control](https://arxiv.org/abs/2611.14257)
 
-<strong><a href="https://lihaitian.com/Elastic-WAM/">Project Page</a> | <a href="https://arxiv.org/abs/2611.14257">ArXiv Preprint</a> (Submitted to CVPR)</strong>
+<strong><a href="https://lihaitian.com/Elastic-WAM/">Project Page</a> | <a href="https://arxiv.org/abs/2611.14257">ArXiv Preprint</a></strong>
 
 Haitian Li<sup>*</sup>, **Tianfu Li<sup>*</sup>**, Xuxi Zhao, et al.
 
