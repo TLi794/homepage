@@ -106,6 +106,31 @@
     background: #fff;
 }
 
+.education-logo {
+    display: block;
+    width: 100%;
+    -webkit-mask-position: center;
+    mask-position: center;
+    -webkit-mask-size: contain;
+    mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-repeat: no-repeat;
+}
+
+.education-logo-hkust {
+    aspect-ratio: 544 / 144;
+    background-color: #003366;
+    -webkit-mask-image: url('/images/school-logos/hkust-gz-bilingual.png');
+    mask-image: url('/images/school-logos/hkust-gz-bilingual.png');
+}
+
+.education-logo-scu {
+    aspect-ratio: 211 / 68;
+    background-color: #b3100a;
+    -webkit-mask-image: url('/images/school-logos/sichuan-university.png');
+    mask-image: url('/images/school-logos/sichuan-university.png');
+}
+
 .experience-logo-agibot {
     width: 70%;
     height: auto;

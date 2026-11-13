@@ -38,8 +38,16 @@ Beyond my academic research, I am an algorithm engineer intern at Knowin AI, whe
 -->
 
 # 📖 Educations
-- M.Phil. in Robotics and Automation Systems, **[The Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/)**, China, *Sept. 2024 - Oct. 2026*
-- B.Eng. in Computer Science and Technology, **[Sichuan University](https://en.scu.edu.cn/)**, China, *Sept. 2020 - Jun. 2024*
+
+<div class="experience-entry">
+  <div class="experience-logo"><span class="education-logo education-logo-hkust" role="img" aria-label="HKUST Guangzhou logo"></span></div>
+  <div class="experience-text"><ul><li>M.Phil. in Robotics and Automation Systems, <strong><a href="https://www.hkust-gz.edu.cn/">The Hong Kong University of Science and Technology (Guangzhou)</a></strong>, China, <em>Sept. 2024 - Oct. 2026</em></li></ul></div>
+</div>
+
+<div class="experience-entry">
+  <div class="experience-logo"><span class="education-logo education-logo-scu" role="img" aria-label="Sichuan University logo"></span></div>
+  <div class="experience-text"><ul><li>B.Eng. in Computer Science and Technology, <strong><a href="https://en.scu.edu.cn/">Sichuan University</a></strong>, China, <em>Sept. 2020 - Jun. 2024</em></li></ul></div>
+</div>
 
 # 💻 Experience
 
