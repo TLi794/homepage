@@ -144,8 +144,9 @@
 }
 
 .education-logo-scu {
-    width: 171px;
-    height: 55px;
+    width: 155px;
+    height: 50px;
+    transform: translateX(-10px);
     background-color: #b3100a;
     -webkit-mask-image: url('../../images/school-logos/sichuan-university.png');
     mask-image: url('../../images/school-logos/sichuan-university.png');
