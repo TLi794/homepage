@@ -40,24 +40,24 @@ Beyond my academic research, I am an algorithm engineer intern at Knowin AI, whe
 # 📖 Educations
 
 <div class="experience-entry">
-  <div class="experience-logo"><span class="education-logo education-logo-hkust" role="img" aria-label="HKUST Guangzhou logo"></span></div>
+  <!-- <div class="experience-logo"><span class="education-logo education-logo-hkust" role="img" aria-label="HKUST Guangzhou logo"></span></div> -->
   <div class="experience-text"><ul><li>M.Phil. in Robotics and Automation Systems, <strong><a href="https://www.hkust-gz.edu.cn/">The Hong Kong University of Science and Technology (Guangzhou)</a></strong>, China, <em>Sept. 2024 - Oct. 2026</em></li></ul></div>
 </div>
 
 <div class="experience-entry">
-  <div class="experience-logo"><span class="education-logo education-logo-scu" role="img" aria-label="Sichuan University logo"></span></div>
+  <!-- <div class="experience-logo"><span class="education-logo education-logo-scu" role="img" aria-label="Sichuan University logo"></span></div> -->
   <div class="experience-text"><ul><li>B.Eng. in Computer Science and Technology, <strong><a href="https://en.scu.edu.cn/">Sichuan University</a></strong>, China, <em>Sept. 2020 - Jun. 2024</em></li></ul></div>
 </div>
 
 # 💻 Experience
 
 <div class="experience-entry">
-  <div class="experience-logo"><img class="experience-logo-agibot" src="{{ '/images/company-logos/agibot.png' | relative_url }}" alt="AgiBot logo"></div>
+  <!-- <div class="experience-logo"><img class="experience-logo-agibot" src="{{ '/images/company-logos/agibot.png' | relative_url }}" alt="AgiBot logo"></div> -->
   <div class="experience-text"><ul><li>Researcher, Ego-based VLA Pre/Mid-Training, <strong><a href="https://www.maniformer.ai/en">Maniformer Team</a>, <a href="https://www.agibot.com/">AgiBot 智元机器人</a></strong>, Shanghai, China, <em>Sept. 2026 - Present</em></li></ul></div>
 </div>
 
 <div class="experience-entry">
-  <div class="experience-logo"><img class="experience-logo-roboscience" src="{{ '/images/company-logos/roboscience-bilingual.jpg' | relative_url }}" alt="RoboScience 机器科学 logo"></div>
+  <!-- <div class="experience-logo"><img class="experience-logo-roboscience" src="{{ '/images/company-logos/roboscience-bilingual.jpg' | relative_url }}" alt="RoboScience 机器科学 logo"></div> -->
   <div class="experience-text"><ul><li>Researcher (Intern), WAM Post-Training, <strong><a href="https://www.robosci.com/en/home-en/">RoboScience 机器科学</a></strong>, Shenzhen, China, <em>Apr. 2026 - Sept. 2026</em></li></ul></div>
 </div>
 
