@@ -23,7 +23,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet 
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 -->
 
-Hi! I'm Tianfu Li (李天夫), currently a Researcher at Maniformer Team, AgiBot, where I work on improving robot policies through human egocentric data. I received my M.Phil. in Robotics and Autonomous Systems from The Hong Kong University of Science and Technology (Guangzhou), where I was supervised by [Prof. Haoang Li (李昊昂)](https://sites.google.com/view/haoangli/homepage) and [Prof. Lujia Wang (王鲁佳)](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/?id=353). My research interests include World-Action Models (WAMs), Vision-Language-Action models (VLAs), and Vision-Language Navigation (VLN).
+Hi! I'm Tianfu Li (李天夫), currently a algorithm researcher at Maniformer Team, AgiBot, where I work on improving robot policies through human egocentric data. I received my M.Phil. degree in Robotics and Autonomous Systems from The Hong Kong University of Science and Technology (Guangzhou), where I was supervised by [Prof. Haoang Li (李昊昂)](https://sites.google.com/view/haoangli/homepage) and [Prof. Lujia Wang (王鲁佳)](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/?id=353). My research interests include World-Action Models (WAMs), Vision-Language-Action models (VLAs), and Vision-and-Language Navigation (VLN).
 
 <!--
 Beyond my academic research, I am an algorithm engineer intern at Knowin AI, where I work on developing advanced robotic manipulation algorithms, bridging the gap between high-level task understanding and low-level motor control. I am passionate about creating embodied agents that can seamlessly interact with humans and their surroundings through natural language instructions and visual perception.
@@ -34,6 +34,10 @@ Beyond my academic research, I am an algorithm engineer intern at Knowin AI, whe
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 -->
+
+# 📖 Educations
+- M.Phil. in Robotics and Automation Systems, **[Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/)**, China, *2024 - 2026*
+- B.Eng. in Computer Science and Technology, **[Sichuan University](https://en.scu.edu.cn/)**, China, *2020 - 2024*
 
 # 📝 Publications 
 
@@ -121,10 +125,6 @@ N.B.: **<sup>\*</sup>** indicates equal contribution.
 - Comprehensive Scholarship from Sichuan University
 - Individual Scholarship from Sichuan University
 - Meritorious Winner in Mathematical Contest in Modeling by COMAP 
-
-# 📖 Educations
-- M.Phil. in Robotics and Automation Systems, **[Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/)**, China, *2024 - Present*
-- B.Eng. in Computer Science and Technology, **[Sichuan University](https://en.scu.edu.cn/)**, China, *2020 - 2024* 
 
 <!--
 # 💬 Invited Talks
