@@ -93,6 +93,19 @@ Haitian Li<sup>*</sup>, **Tianfu Li<sup>*</sup>**, Xuxi Zhao, et al.
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/mvg-wam-fig2.webp' alt="MVG-WAM Figure 2: multi-view geometry-aware model architecture" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[MVG-WAM: Multiple View Geometry-Aware World-Action Modeling for Robotic Manipulation](https://arxiv.org/abs/2609.37793)
+
+<strong><a href="https://bobc-123.github.io/MVG-WAM/">Project Page</a> | <a href="https://arxiv.org/abs/2609.37793">ArXiv Preprint</a></strong>
+
+Wenbo Chen<sup>*</sup>, **Tianfu Li<sup>*</sup>**, Haoxuan Xu<sup>*</sup>, et al.
+
+- Models cross-view geometry with an epipolar-constrained global state and view-specific features, improving multi-view robotic manipulation without inference-time depth decoding.
+</div>
+</div>
+
 N.B.: <sup>*</sup> indicates equal contribution.
 
 {% comment %}
