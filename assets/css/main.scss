@@ -123,8 +123,8 @@
     position: absolute;
     inset: 0;
     background-color: #003366;
-    -webkit-mask-image: url('/images/school-logos/hkust-gz-bilingual.png');
-    mask-image: url('/images/school-logos/hkust-gz-bilingual.png');
+    -webkit-mask-image: url('../../images/school-logos/hkust-gz-bilingual.png');
+    mask-image: url('../../images/school-logos/hkust-gz-bilingual.png');
     -webkit-mask-position: center;
     mask-position: center;
     -webkit-mask-size: 100% 100%;
@@ -140,15 +140,15 @@
     top: 0;
     width: 34px;
     height: 53px;
-    background: url('/images/school-logos/hkust-gz-emblem-color.png') center / 100% 100% no-repeat;
+    background: url('../../images/school-logos/hkust-gz-emblem-color.png') center / 100% 100% no-repeat;
 }
 
 .education-logo-scu {
     width: 171px;
     height: 55px;
     background-color: #b3100a;
-    -webkit-mask-image: url('/images/school-logos/sichuan-university.png');
-    mask-image: url('/images/school-logos/sichuan-university.png');
+    -webkit-mask-image: url('../../images/school-logos/sichuan-university.png');
+    mask-image: url('../../images/school-logos/sichuan-university.png');
     -webkit-mask-position: center;
     mask-position: center;
     -webkit-mask-size: 100% 100%;
