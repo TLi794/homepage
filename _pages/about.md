@@ -106,6 +106,19 @@ Wenbo Chen<sup>*</sup>, **Tianfu Li<sup>*</sup>**, Haoxuan Xu<sup>*</sup>, et al
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS</div><img src='images/irpo-fig2.webp' alt="IRPO Figure 2: hard-sample GRPO post-training framework for image restoration" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[IRPO: Boosting Image Restoration via Post-training GRPO](https://arxiv.org/abs/2512.00814)
+
+<strong><a href="https://github.com/HaoxuanXU1024/IRPO">Project Page</a> | <a href="https://arxiv.org/abs/2512.00814">ArXiv Preprint</a> | NeurIPS 2026</strong>
+
+Haoxuan Xu<sup>*</sup>, Yi Liu<sup>*</sup>, **Tianfu Li**, et al.
+
+- Applies GRPO post-training to hard image restoration samples with fidelity and quality-aware rewards, improving AdaIR by 0.93 dB in-domain and 3.43 dB out-of-domain.
+</div>
+</div>
+
 N.B.: <sup>*</sup> indicates equal contribution.
 
 {% comment %}
