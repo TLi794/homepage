@@ -42,8 +42,8 @@ Beyond my academic research, I am an algorithm engineer intern at Knowin AI, whe
 - B.Eng. in Computer Science and Technology, **[Sichuan University](https://en.scu.edu.cn/)**, China, *Sept. 2020 - Jun. 2024*
 
 # 💻 Experience
-- Algorithm Researcher, Ego-based VLA Pre/Mid-Training, **AgiBot 智元机器人 - Maniformer Team**, Shanghai, China, *Sept. 2026 - Present*
-- Algorithm Researcher (Intern), WAM Post-Training, **RoboScience 机器科学**, Shenzhen, China, *Apr. 2026 - Sept. 2026*
+- Researcher, Ego-based VLA Pre/Mid-Training, **[Maniformer Team](https://www.maniformer.ai/en), [AgiBot 智元机器人](https://www.agibot.com/)**, Shanghai, China, *Sept. 2026 - Present*
+- Researcher (Intern), WAM Post-Training, **[RoboScience 机器科学](https://www.robosci.com/en/home-en/)**, Shenzhen, China, *Apr. 2026 - Sept. 2026*
 
 <!--
 - Algorithm Engineer for Robotic Manipulation, **[Knowin AI](https://knowinai.com/)**, Shenzhen, China, *Jan. 2026 - Apr. 2026*
