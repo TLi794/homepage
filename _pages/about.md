@@ -23,7 +23,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet 
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 -->
 
-Hi! I'm Tianfu Li (李天夫), currently a algorithm researcher at Maniformer Team, AgiBot, where I work on improving robot policies through human egocentric data. I received my M.Phil. degree in Robotics and Autonomous Systems from The Hong Kong University of Science and Technology (Guangzhou), where I was supervised by [Prof. Haoang Li (李昊昂)](https://sites.google.com/view/haoangli/homepage) and [Prof. Lujia Wang (王鲁佳)](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/?id=353). My research interests include World-Action Models (WAMs), Vision-Language-Action models (VLAs), and Vision-and-Language Navigation (VLN).
+Hi! I'm Tianfu Li (李天夫), currently an algorithm researcher at Maniformer Team, AgiBot, where I work on improving robot policies through human egocentric data. I received my M.Phil. degree in Robotics and Autonomous Systems from The Hong Kong University of Science and Technology (Guangzhou), where I was supervised by [Prof. Haoang Li (李昊昂)](https://sites.google.com/view/haoangli/homepage) and [Prof. Lujia Wang (王鲁佳)](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/?id=353).
+
+My research interests include World-Action Models (WAMs), Vision-Language-Action models (VLAs), and Vision-and-Language Navigation (VLN).
 
 <!--
 Beyond my academic research, I am an algorithm engineer intern at Knowin AI, where I work on developing advanced robotic manipulation algorithms, bridging the gap between high-level task understanding and low-level motor control. I am passionate about creating embodied agents that can seamlessly interact with humans and their surroundings through natural language instructions and visual perception.
@@ -36,8 +38,16 @@ Beyond my academic research, I am an algorithm engineer intern at Knowin AI, whe
 -->
 
 # 📖 Educations
-- M.Phil. in Robotics and Automation Systems, **[Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/)**, China, *2024 - 2026*
-- B.Eng. in Computer Science and Technology, **[Sichuan University](https://en.scu.edu.cn/)**, China, *2020 - 2024*
+- M.Phil. in Robotics and Automation Systems, **[The Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/)**, China, *Sept. 2024 - Oct. 2026*
+- B.Eng. in Computer Science and Technology, **[Sichuan University](https://en.scu.edu.cn/)**, China, *Sept. 2020 - Jun. 2024*
+
+# 💻 Experience
+- Algorithm Researcher, Ego-based VLA Pre/Mid-Training, **AgiBot 智元机器人 - Maniformer Team**, Shanghai, China, *Sept. 2026 - Present*
+- Algorithm Researcher (Intern), WAM Post-Training, **RoboScience 机器科学**, Shenzhen, China, *Apr. 2026 - Sept. 2026*
+
+<!--
+- Algorithm Engineer for Robotic Manipulation, **[Knowin AI](https://knowinai.com/)**, Shenzhen, China, *Jan. 2026 - Apr. 2026*
+-->
 
 # 📝 Publications 
 
@@ -131,9 +141,6 @@ N.B.: **<sup>\*</sup>** indicates equal contribution.
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 -->
-
-# 💻 Internships
-- Algorithm Engineer for Robotic Manipulation, **[Knowin AI](https://knowinai.com/)**, Shenzhen, China, *Jan. 2026 - Apr. 2026*
 
 <!--
 - Algorithm Engineer for Robotic Manipulation, **[Knowin AI](https://mp.weixin.qq.com/s/HTQM37HK87JvG75Ga801EA)**, Shenzhen, China, *Jan. 2026 - Apr. 2026*

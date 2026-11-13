@@ -6,6 +6,9 @@ main:
   - title: "Educations"
     url: "https://tli794.github.io/homepage/#-educations"
 
+  - title: "Experience"
+    url: "https://tli794.github.io/homepage/#-experience"
+
   - title: "Publications"
     url: "https://tli794.github.io/homepage/#-publications"
   
@@ -14,6 +17,3 @@ main:
   
   - title: "Honors and Awards"
     url: "https://tli794.github.io/homepage/#-honors-and-awards"
-
-  - title: "Internships"
-    url: "https://tli794.github.io/homepage/#-internships"
