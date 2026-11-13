@@ -95,6 +95,10 @@
     padding-top: 1em;
 }
 
+.page__content > h1 + .paper-box {
+    padding-top: 0.5em;
+}
+
 .experience-entry {
     display: flex;
     align-items: center;
