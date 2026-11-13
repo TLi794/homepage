@@ -87,6 +87,25 @@
 
 }
 
+.experience-entry {
+    display: flex;
+    align-items: center;
+    gap: 2em;
+    margin: 1.5em 0;
+    flex-wrap: wrap;
+}
+
+.experience-logo {
+    width: 200px;
+    aspect-ratio: 8 / 3;
+    object-fit: cover;
+}
+
+.experience-text {
+    flex: 1 1 300px;
+    min-width: 0;
+}
+
 $scroll_offset : 2em;
 h1:before, .anchor:before { 
     content: ''; 
