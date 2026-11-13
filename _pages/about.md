@@ -67,6 +67,21 @@ Beyond my academic research, I am an algorithm engineer intern at Knowin AI, whe
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/elastic-wam-overview.webp' alt="Elastic-WAM overview: adaptive spatiotemporal refinement for robot control" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Elastic-WAM: Adaptive Spatiotemporal Imagination for Efficient Robot Control](https://arxiv.org/abs/2611.14257)
+
+<strong><a href="https://lihaitian.com/Elastic-WAM/">Project Page</a> | <a href="https://arxiv.org/abs/2611.14257">ArXiv Preprint</a> (Submitted to CVPR)</strong>
+
+Haitian Li<sup>*</sup>, **Tianfu Li<sup>*</sup>**, Xuxi Zhao, et al.
+
+- Introduced a unified field that decides when, how far, and where to refine imagined futures, improving robotic manipulation while reducing inference latency by 32.2% on RoboCasa-GR1.
+</div>
+</div>
+
+N.B.: <sup>*</sup> indicates equal contribution.
+
 {% comment %}
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/p3nav.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
